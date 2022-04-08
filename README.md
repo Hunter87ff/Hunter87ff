@@ -6,7 +6,7 @@
 
 
 🍁Instagram
-@im_hunter87
+[@im_hunter87](https://instagram.com/im_hunter87)
 
 🌨Discord
-https://discord.gg/EreYjUUgkG
+[Join Server](https://discord.gg/EreYjUUgkG)
