@@ -2,11 +2,7 @@
 - 👀 I’m interested in python,css,js
 - 🌱 I’m currently learning discord.py
 - 🎯 My aim to be a great developer.
-- 📫 How to reach me ...👇
 
 
-🍁Instagram
-[@im_hunter87](https://instagram.com/im_hunter87)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hunter87ff&theme=highcontrast)](https://git.io/streak-stats)
 
-🌨Discord
-[Join Server](https://discord.gg/EreYjUUgkG)
