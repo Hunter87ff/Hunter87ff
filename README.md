@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hunter87
 - 👀 Interested in python,css,js
-- 🌱 Currently learning discord.py
+- 🌱 Currently learning python
 - 🎯 Aim to be a great Programmer.
 
 
