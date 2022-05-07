@@ -3,6 +3,4 @@
 - 🌱 Currently learning python
 - 🎯 Aim to be a great Programmer.
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hunter87ff&theme=highcontrast)](https://git.io/streak-stats)
-
+![[Hunter87ff's Github Stats](https://github.com/Hunter87ff)](https://github-readme-stats.vercel.app/api?username=Hunter87ff&count_private=true&show_icons=true&theme=dark)
