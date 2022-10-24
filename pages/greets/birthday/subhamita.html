@@ -15,24 +15,25 @@ body {background-color:black;height: 100%;width: 100%;margin: 0;overflow:hidden;
 canvas {cursor: crosshair;display: block;}
 .content-wrapper {z-index: 50;position: absolute;top: 0;left: 0;width: 100%;height: 100%;display: flex;flex-direction: column;align-items: center;justify-content: center;}
 .header {font-size: 2.3rem;font-weight: 300;}
-.year {font-size: 4rem;font-weight: 400;line-height: 1.5;animation: clr 9s linear;transition: 5s;}
+.year {visibility: visible; font-size: 4rem;font-weight: 400;line-height: 1.3;animation: clr 10s linear;}
 .img {display: none;width: auto;height: 80%;position: absolute;transition: 650ms ease;border-radius: 30px;}
 .img-01 {z-index: 2;}
 .img-02 {z-index: 1;opacity: 0;pointer-events: none;filter: blur(100px);}
 .img-01:hover {opacity: 0;}
 .img-01:hover ~ .img-02 {opacity: 1;filter: blur(0);}
-@keyframes clr{0%{color: transparent;}10%{color: transparent;}20%{color: transparent;}30%{color: red;}60%{color: hotpink;}80%{color: blue;}90%{color: grey;}100%{color: #fff}}
+@keyframes clr{0%{color: transparent;}10%{color: transparent;}20%{color: transparent;}30%{color: transparent;}40%{color: transparent;}60%{color: hotpink;}80%{color: blue;}90%{color: grey;}100%{color: #fff}}
 
 
 </style>
 <title>Click Here</title>
 </head>
-<body>
+<body onclick="greet()">
 <canvas id="canvas"></canvas>
 <div class="content-wrapper">
 
 <center>
-<p class="year">Happy Birthday Subhamita</p></center>
+<p id="yrr" class="year">Happy Birthday Subhamita</p></center>
+<br>
 <p class="header">Keep Growing With Big Dreams And Goals.
 May God Help You To Achive All Your Goals.
 We Are Realy Lucky To Get Friend, Sister Like You.
@@ -44,7 +45,14 @@ Always Stay Blessed And Proud Of Yourself.
 </div>
 <!--<script src="main.js"></script>-->
 <script type="text/javascript">
-      window.requestAnimFrame = (function () {
+var yr = document.getElementById("yrr")
+function greet(){
+  yr.style.visibility = "visible"
+}
+
+
+
+  window.requestAnimFrame = (function () {
   return (
     window.requestAnimationFrame ||
     window.webkitRequestAnimationFrame ||
