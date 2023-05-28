@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunter87ff&theme=highcontrast" alt="hunter87ff" /></a> </p>
 
-- 🔭 I’m currently working on [Spruce](https://github.com/Spruce87/SpBt)
+- 🔭 I’m currently working at [Spruce](https://github.com/Spruce87)
 
 - 📫 How to reach me **souravyt78@gmail.com**
 
