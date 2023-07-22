@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm hunter87</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter87ff&label=Profile%20views&color=0e75b6&style=flat" alt="hunter87ff" /> </p>-->
 
