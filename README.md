@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [Spruce](https://github.com/Spruce87)
 
-- 📫 How to reach me **souravyt78@gmail.com**
+- 📫 How to reach me **souravyt87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
