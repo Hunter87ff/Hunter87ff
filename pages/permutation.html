@@ -46,8 +46,9 @@ function vall(){
   var d = document.querySelector(".res");
   var n = document.querySelector('#n');
   var r = document.querySelector('#r');
-  let ep = `https://dashboard.87-hunter.repl.co/api/perm?n=${n.value}&r=${r.valur}`
-  $.get(ep, function(response){d.value=response;})
+  let ep = "https://dashboard.87-hunter.repl.co/api/perm"
+  var data = {"n":n.value, "r":r.value};
+  $.get(ep, data, function(response){d.value=response; console.log(response)})
   //alert(n, r, p)
   
   //nfact(n) / (nfact(n=n - r));
