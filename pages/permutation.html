@@ -1,5 +1,6 @@
 <title>Permutation</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script src="https://liftmobi.sourav87.repl.co/static/js/jquery.js"></script>
 <style>
 *{
   padding: 0;
@@ -44,9 +45,10 @@ function vall(){
   var d = document.querySelector(".res");
   var n = document.querySelector('#n');
   var r = document.querySelector('#r');
-  let p = nfact(n.value) / (nfact(n.value - r.value));
+  let ep = `https://dashboard.87-hunter.repl.co/api/perm?n=${n.value}&r=${r.valur}`
+  $.get(ep, function(response){d.value=response;})
   //alert(n, r, p)
-  d.value= parseInt(p);
+  
   //nfact(n) / (nfact(n=n - r));
 }
 //console.log(p);
