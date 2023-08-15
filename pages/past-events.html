@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erfolg</title>
+    <style type="text/css">
+      body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(cyan, blue);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding-top: 50px;
+}
+
+.container {
+  background-color: #fff;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Past Events</h1>
+        <form id="webhook-form">
+            <label style="display:none;" for="webhook-url">Webhook URL:</label>
+            <input style="display: none;" type="text" value="https://discord.com/api/webhooks/1140986811221557278/MZvZxtyIyYS9bwPR-ZwoG_JqCVJDN58N_3BTKDF529p-LON5o9KXLTjC5gQ7vONBWSmX" id="webhook-url" required>
+            <br>
+            <label for="embed-title">Embed Title:</label>
+            <input type="text" id="embed-title" required>
+            <br>
+            <label for="imageUrl">Embed Emage(url):</label>
+            <input type="text" id="imageUrl" required>
+            <br>
+            <label for="embed-description">Embed Description:</label>
+            <textarea id="embed-description" rows="4" required></textarea>
+            <br>
+            <button type="submit">Send Embed</button>
+        </form>
+        <div id="response-message"></div>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("webhook-form");
+  const responseMessage = document.getElementById("response-message");
+
+  form.addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    const webhookURL = document.getElementById("webhook-url").value;
+    const embedTitle = document.getElementById("embed-title").value;
+    const imageUrl = document.getElementById("imageUrl").value;
+    const embedDescription = document.getElementById("embed-description").value;
+    const currentTimestamp = new Date().toISOString();
+    const embed = {
+      title: embedTitle,
+      description: embedDescription,
+      color: 0x00ff00,
+      thumbnail : {url: "https://cdn.discordapp.com/icons/1011589343003017287/602658ce5f3115d3a147fa87af738001.png?size=1024"},
+      image : {url : imageUrl},
+      timestamp : currentTimestamp
+    };
+
+    const data = {
+      content: "",
+      embeds: [embed],
+    };
+
+    sendEmbed(webhookURL, data);
+  });
+
+  function sendEmbed(webhookURL, data) {
+    fetch(webhookURL, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(data),
+    })
+      .then((response) => {
+        if (response.status === 204) {
+          responseMessage.textContent = "Embed sent successfully!";
+        } else {
+          responseMessage.textContent = "Failed to send embed.";
+          console.error("Response status:", response.status);
+        }
+      })
+      .catch((error) => {
+        responseMessage.textContent = "An error occurred.";
+        console.error("Error:", error);
+      });
+  }
+});
+
+    </script>
+</body>
+</html>
