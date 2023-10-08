@@ -1,6 +1,6 @@
 <h1 style="color:#fff; text-decoration:none;" align="center">Hi 👋, I'm hunter87</h1>
 <h3 style="color:#fff; text-decoration:none;" align="center">A passionate web developer from India</h3>
-
+<div style="color:red;">Hunter87</div>
 
 ## &#x1f4c8; Contribution Graph
 
@@ -72,6 +72,14 @@
   <img alt="SBK's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=hunter87ff&theme=react&hide_border=true"/>
 </p>
 
+
+## 🏆GitHub Trophies
+
+<div align="center">  
+  
+![](https://github-trophies.vercel.app/?username=hunter87ff&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
 ## 📱 Socials
 <p align="center">
 	<a href="https://instagram.com/im_hunter87">
@@ -87,13 +95,6 @@
 		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
 	</a>
 </p>
-
-## 🏆GitHub Trophies
-
-<div align="center">  
-  
-![](https://github-trophies.vercel.app/?username=hunter87ff&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
-</div>
 
 ### ✍️Fav. Quote
 
