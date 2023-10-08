@@ -95,7 +95,7 @@
 ![](https://github-trophies.vercel.app/?username=hunter87ff&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
-### ✍️Dev Quote
+### ✍️Fav. Quote
 
 <div align="center">  
   
