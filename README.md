@@ -1,31 +1,110 @@
-
 <h1 align="center">Hi 👋, I'm hunter87</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter87ff&label=Profile%20views&color=0e75b6&style=flat" alt="hunter87ff" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunter87ff&theme=highcontrast" alt="hunter87ff" /></a> </p>
+## &#x1f4c8; Contribution Graph
 
-- 🔭 I’m currently working at [Spruce](https://github.com/Spruce87)
+[![hunter87ff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hunter87ff&custom_title=My%20Contributions&hide_border=true&theme=react-dark)](https://github.com/hunter87ff/github-readme-activity-graph)
 
-- 📫 How to reach me **souravyt87@gmail.com**
+## 🔧 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/hunter87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hunter87" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sourav-das87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soursv-das87" height="30" width="40" /></a>
-<a href="https://instagram.com/im_hunter87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_hunter87" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@hunter_87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hunter_87" height="30" width="40" /></a>
-<a href="https://discord.gg/vMnhpAyFZm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vMnhpAyFZm" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61D9FA&labelColor=20232A"/>
+<!--
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=61D9FA&labelColor=20232A"/> 
+  <img src="https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  -->
+  <img src="https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p>  
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Tools-Chrome-informational?style=flat&logo=chrome&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=61D9FA&labelColor=20232A"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## &#x269B; Language Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunter87ff&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="hunter87ff" /></p>
+<p align="center">
+  <a align="center" href="https://github.com/hunter87ff">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter87ff&theme=react&hide_border=true" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter87ff&show_icons=true&locale=en&theme=highcontrast" alt="hunter87ff" /></p>
+## &#x1F680; GitHub Stats
 
-<!--<<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunter87ff&theme=highcontrast" alt="hunter87ff" /></p>-->
+<p align="center">
+  <a align="center" href="https://github.com/hunter87ff">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter87ff&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="SBK's GitHub Stats" />
+  </a>
+ </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hunter87ff&theme=highcontrast)](https://git.io/streak-stats)
+## &#128202; Contribution Stats
+
+<p align="center">
+  <img alt="SBK's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=hunter87ff&theme=react&hide_border=true"/>
+</p>
+
+## 📱 Socials
+<p align="center">
+	<a href="https://instagram.com/im_hunter87">
+		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
+	</a>
+  <a href="https://youtube.com/@hunter_87">
+		<img src="https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube"/>
+	</a>
+	<a href="https://www.linkedin.com/in/https://linkedin.com/in/sourav-das87/">
+		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
+	</a>
+	<a href="https://www.github.com/hunter87ff/">
+		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
+	</a>
+</p>
+
+## 🏆GitHub Trophies
+
+<div align="center">  
+  
+![](https://github-trophies.vercel.app/?username=hunter87ff&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+### ✍️Dev Quote
+
+<div align="center">  
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!--
+---
+[![](https://visitcount.itsvg.in/api?id=hunter87ff&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Paytm-0000FF?style=for-the-badge&logo=paytm&logoColor=white)](https://patreon.com/sprucebot) -->
+</div>
+
