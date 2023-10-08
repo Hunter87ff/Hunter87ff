@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm hunter87</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 style="color:#fff; text-decoration:none;" align="center">Hi 👋, I'm hunter87</h1>
+<h3 style="color:#fff; text-decoration:none;" align="center">A passionate web developer from India</h3>
 
 
 ## &#x1f4c8; Contribution Graph
