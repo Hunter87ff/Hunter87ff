@@ -61,14 +61,14 @@
 
 <p align="center">
   <a align="center" href="https://github.com/hunter87ff">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter87ff&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="SBK's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter87ff&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="hunter87's Stats" />
   </a>
  </p>
 
 ## &#128202; Contribution Stats
 
 <p align="center">
-  <img alt="SBK's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=hunter87ff&theme=react&hide_border=true"/>
+  <img alt="My strakes" src="https://github-readme-streak-stats.herokuapp.com?user=hunter87ff&theme=react&hide_border=true"/>
 </p>
 
 
@@ -104,7 +104,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hunter87ff&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰You can help me by Donating
+  ## 💰You can help us by Donating
   [![Patreon](https://img.shields.io/badge/Paytm-0000FF?style=for-the-badge&logo=paytm&logoColor=white)](https://patreon.com/sprucebot) -->
 </div>
 
