@@ -87,7 +87,7 @@
   <a href="https://youtube.com/@hunter_87">
 		<img src="https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube"/>
 	</a>
-	<a href="https://www.linkedin.com/in/https://linkedin.com/in/sourav-das87/">
+	<a href="https://www.linkedin.com/in/https://linkedin.com/in/hunter87/">
 		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
 	</a>
 	<a href="https://www.github.com/hunter87ff/">
