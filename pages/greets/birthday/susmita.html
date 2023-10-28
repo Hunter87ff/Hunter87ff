@@ -307,6 +307,12 @@ window.onload = loop;
 
 
     </script>
-    <audio src="https://github.com/Hunter87ff/Hunter87ff/raw/main/pages/greets/birthday/Happy%20Birthday%20To%20You%20Ji.mp3" autoplay="1"></audio>
+    <audio oncanplay="play()" src="https://github.com/Hunter87ff/Hunter87ff/raw/main/pages/greets/birthday/Happy%20Birthday%20To%20You%20Ji.mp3" autoplay="1"></audio>
+<script>
+  var ad = document.querySelector("audio");
+  function play(){
+    ad.play()
+  }
+</script>
   </body>
 </html>
