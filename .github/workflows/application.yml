@@ -36,12 +36,12 @@ jobs:
         cd Lava
         wget https://github.com/lavalink-devs/Lavalink/releases/download/3.7.11/Lavalink.jar
         cd plugins && wget https://github.com/topi314/LavaSrc/releases/download/3.2.9/lavasrc-plugin-3.2.9.jar && cd ../
-        java -jar Lavalink.jar
       working-directory: ./  # Change this to your project's root directory
 
     - name: Deploy
       run: |
         python --version
+        python test.py
         # Add any deployment commands here
         # For example, to run your Python application:
         # python src/app.py
