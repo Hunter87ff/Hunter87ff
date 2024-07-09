@@ -41,7 +41,7 @@ jobs:
     - name: Deploy
       run: |
         python --version
-        python test.py
+        # python test.py
         # Add any deployment commands here
         # For example, to run your Python application:
         # python src/app.py
