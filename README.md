@@ -5,6 +5,7 @@
 
 [![hunter87ff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hunter87ff&custom_title=My%20Contributions&hide_border=true&theme=react-dark)](https://github.com/hunter87ff/github-readme-activity-graph)
 
+
 ## 🔧 Technologies & Tools
 
 <p align="center">
@@ -39,7 +40,8 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=61D9FA&labelColor=20232A"/>
+  <!--<img src="https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=61D9FA&labelColor=20232A"/>-->
+<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Tools-Chrome-informational?style=flat&logo=chrome&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
@@ -94,6 +96,8 @@
 		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
 	</a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter87ff&label=Profile%20views&color=0e75b6&style=flat"hunter87ff" /> </p>
 
 ### ✍️Fav. Quote
 
