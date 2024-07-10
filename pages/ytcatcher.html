@@ -49,7 +49,8 @@
                 const formattedUrl = encodeUrl(videoUrl);
                 const format = sel("#format").value 
                 const BASE_URL = "https://ab.cococococ.com/"
-                const QUERY_URL = `${BASE_URL}ajax/download.php?button=1&start=1&end=1&format=${format}&url=${videoUrl}`;
+                const PROXY_URL = 'https://cors-anywhere.herokuapp.com/';
+                const QUERY_URL = PROXY_URL + `${BASE_URL}ajax/download.php?button=1&start=1&end=1&format=${format}&url=${videoUrl}`;
                 const headers = {'Referer': BASE_URL};
                 try {
                     const processResponse = await fetch(QUERY_URL, { headers });
