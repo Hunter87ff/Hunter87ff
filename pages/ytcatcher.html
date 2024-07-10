@@ -43,7 +43,7 @@
         function sleep(seconds) {return new Promise(resolve => setTimeout(resolve, seconds * 1000));}
         function sel(class_name){return document.querySelector(class_name);}
         function encodeUrl(url) {return url.replace(/\//g, '%2F').replace(/:/g, '%3A').replace(/\?/g, '%3F').replace(/=/g, '%3D');}
-
+        $("#format").on("change", function(){$("#btn").html("Download")} );
         async function Download(){
                 const videoUrl = sel("#link").value
                 const formattedUrl = encodeUrl(videoUrl);
@@ -54,7 +54,8 @@
                 try {
                     const processResponse = await fetch(QUERY_URL, { headers });
                     const process = await processResponse.json();
-                    if (process.title.replace("/", /\\/g) == videoUrl){
+                    // console.log(process.title.replace("/\\/","/"))
+                    if (process.title.replace("/\\/","/") == videoUrl){
                         console.log("Failed to download video");
                         $("#btn").html("Failed to download")
                         $("#btn").css("background-color", "red")
@@ -62,9 +63,9 @@
                     }
                     const PROCESS_URL = `${BASE_URL}ajax/progress.php?id=${process.id}`;
                     let downloadUrl = null;
-                    console.log("Query Url : ", QUERY_URL);
-                    console.log("Process Url : ", PROCESS_URL);
-                    console.log("Loading...");
+                    // console.log("Query Url : ", QUERY_URL);
+                    // console.log("Process Url : ", PROCESS_URL);
+                    // console.log("Loading...");
                     $("#btn").html("Loading...")
                     /*Sometime it doesn't work, You need to reload then!!*/
                     while (downloadUrl === null) {
