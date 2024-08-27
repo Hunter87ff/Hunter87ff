@@ -11,12 +11,22 @@
         .imgframe{width: 100px;height: 100px;border-radius: 5px;margin: 5px; width: 20vw; height: 20vw; transition: 0.5s;}
         .imgframe:hover{position: relative;transition: 0.5s; transform: scale(1.3); }
         .container{border-radius: 5px;background: #231f1f;box-shadow: inset -20px -20px 60px #1e1a1a, inset 20px 20px 60px #282424;padding: 20px 10px;}
-        .popup{z-index: 999;width: 100vw;height: 100vh;position: fixed; border-radius: 5px;display: none;}
+        .popup{z-index: 999;position: fixed; border-radius: 5px; top: 50%;left: 50%;transform: translate(-50%, -50%); translate: 0.5s; display: none;}
+        @media (max-width: 720px){
+            .popup{min-width: 90vw;min-height: 90vh; max-height: 90%; max-width: 90%;
+            filter: saturate(1.3); translate: 0.5s;}
+        }
+        @media (min-width: 721px){
+            .popup{min-width: 30vw;min-height: 35vw; max-height: 90%; max-width: 40%;
+            filter: saturate(1.3); transform: 0.5s;
+            }
+        }
     </style>
 </head>
 <body>
+    <img src="https://www.brainwareuniversity.ac.in/univ_student/photo_upload/BCA24014" alt="" class="popup">
     <div class="container">
-        <img src="https://www.brainwareuniversity.ac.in/univ_student/photo_upload/BCA24014" alt="" class="popup">
+        
         <select name="dep" id="dep">
             <option value="BCA">BCA</option>
             <option value="DCS">DCS</option>
