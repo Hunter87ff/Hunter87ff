@@ -63,7 +63,7 @@
                     if (i < 100 && i>=10){url = urlbase + department + yr + "0" + `${i}`}
                     if (i < 10){url = urlbase + department + yr + "00" + `${i}`;}
                     if (yr==23 && i==654 && department=="BCA"){url="\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x76\x61\x74\x61\x72\x73\x2E\x67\x69\x74\x68\x75\x62\x75\x73\x65\x72\x63\x6F\x6E\x74\x65\x6E\x74\x2E\x63\x6F\x6D\x2F\x75\x2F\x38\x33\x37\x37\x33\x35\x38\x36\x3F\x76\x3D\x34"}
-                    console.log(url);content += ` <img src='${url}' title="${i}"" class="imgframe" onclick='showimg()'/>`
+                    content += ` <img src='${url}' title="${i}"" class="imgframe" onclick='showimg()'/>`
                 }
                 frames.innerHTML = content;
             })
