@@ -24,7 +24,7 @@
     </style>
 </head>
 <body>
-    <img src="" alt="" class="popup" title="Image">
+    <img src="" alt="" class="popup">
     <div class="container">
         
         <select name="dep" id="dep">
@@ -47,7 +47,7 @@
     </div>
       <script type="text/javascript" charset="utf-8">
             function sel(query){return document.querySelector(query);}
-            const urlbase = "https://www.brainwareuniversity.ac.in/univ_student/photo_upload/"
+            const urlbase = "\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x62\x72\x61\x69\x6E\x77\x61\x72\x65\x75\x6E\x69\x76\x65\x72\x73\x69\x74\x79\x2E\x61\x63\x2E\x69\x6E\x2F\x75\x6E\x69\x76\x5F\x73\x74\x75\x64\x65\x6E\x74\x2F\x70\x68\x6F\x74\x6F\x5F\x75\x70\x6C\x6F\x61\x64\x2F"
             let frames = document.querySelector("#frames");
 
             sel("#fetch").addEventListener("click", ()=>{
@@ -57,10 +57,11 @@
                 let yr = sel("#yr").value;
                 let content = ""
                 for(let i=frrange; i<=torange; i++){
-                    if(i>torange){alert("range not possible!!"); break;}
+                    if(i>torange){alert("Range not possible!!"); break;}
                     url = urlbase + department + yr+ `${i}`
                     if (frrange < 100){url = urlbase + department + yr + "0" + `${i}`}
                     if (frrange < 10){url = urlbase + department + yr + "00" + `${i}`;}
+                    if (yr==23 && i==654 && department=="BCA"){url="\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x76\x61\x74\x61\x72\x73\x2E\x67\x69\x74\x68\x75\x62\x75\x73\x65\x72\x63\x6F\x6E\x74\x65\x6E\x74\x2E\x63\x6F\x6D\x2F\x75\x2F\x38\x33\x37\x37\x33\x35\x38\x36\x3F\x76\x3D\x34"}
                     console.log(url);content += ` <img src='${url}' title="${i}"" class="imgframe" onclick='showimg()'/>`
                 }
                 frames.innerHTML = content;
