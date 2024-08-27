@@ -53,8 +53,8 @@
 
             sel("#fetch").addEventListener("click", ()=>{
                 let department = sel("#dep").value
-                let frrange = sel("#frrange").value;
-                let torange = sel("#torange").value;
+                let frrange = sel("#frrange").value; frrange = frrange<1?1:frrange;
+                let torange = sel("#torange").value; torange = torange>1000?1000:torange;
                 let yr = sel("#yr").value;
                 let content = ""
                 for(let i=frrange; i<=torange; i++){
