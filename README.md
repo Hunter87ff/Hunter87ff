@@ -95,7 +95,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hunter87ff&theme=dark)
 
 <details>
-	<summary><h2>Daily Stats</h2></summary>
+	<summary>Daily Stats</summary>
 	<img title="daily Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=hunter87ff&custom_title=My%20Contributions&hide_border=true&theme=react-dark" />
 </details>
 
