@@ -3,7 +3,7 @@
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Sourav;Tech+Enthusiast+%7C+Software+Developer;AI+%7C+Cyber+Security+%7C+Automation"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Sourav;Tech+Enthusiast+%7C+Open+Source+Contributor;Cyber+Security+%7C+Automation+%7C+Web/App"/>
 </br>
   <img src="https://github-stats-alpha.vercel.app/api?username=hunter87ff&cc=22272e&tc=37BCF6&ic=fff&bc=0000"/>
   <br>
