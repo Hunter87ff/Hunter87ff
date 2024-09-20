@@ -94,7 +94,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hunter87ff&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hunter87ff&theme=dark)
 
-## Daily Stats
-[![hunter87ff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hunter87ff&custom_title=My%20Contributions&hide_border=true&theme=react-dark)](https://github.com/hunter87ff/github-readme-activity-graph)
+<details>
+	<summary><h2>Daily Stats</h2></summary>
+	<img title="daily Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=hunter87ff&custom_title=My%20Contributions&hide_border=true&theme=react-dark" />
+</details>
+
 
 
