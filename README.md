@@ -94,10 +94,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hunter87ff&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hunter87ff&theme=dark)
 
-<details>
-	<summary>Daily Stats</summary>
-	<img title="daily Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=hunter87ff&custom_title=My%20Contributions&hide_border=true&theme=react-dark" />
-</details>
+## Daily Stats
+
+<img title="daily Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=hunter87ff&custom_title=My%20Contributions&hide_border=true&theme=react-dark" />
+
 
 
 
