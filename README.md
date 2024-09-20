@@ -20,7 +20,7 @@
   
   Currently working on various projects including [Spruce](https://github.com/Hunter87ff/Spruce).
 
-  Looking for collaboration [Unipay](https://hunter87ff/unipay.py), [FlaskCord](https://github.com/Hunter87ff/FlaskCord).
+  Looking for collaboration [Unipay](https://github.com/Hunter87ff/unipay.py), [FlaskCord](https://github.com/Hunter87ff/FlaskCord).
     
   </p>
 </div>
