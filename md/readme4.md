@@ -3,7 +3,7 @@
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Sourav;Tech+Enthusiast+%7C+Software+Developer;AI+%7C+Cyber+Security+%7C+Bots"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Sourav;Tech+Enthusiast+%7C+Software+Developer;AI+%7C+Cyber+Security+%7C+Automation"/>
 </br>
   <img src="https://github-stats-alpha.vercel.app/api?username=hunter87ff&cc=22272e&tc=37BCF6&ic=fff&bc=0000"/>
   <br>
@@ -18,9 +18,9 @@
     
   Pursuing Bachelors of Computer Application  [@Brainware University](https://brainwareuniversity.ac.in).
   
-  Currently working on various projects including [Spruce](https://github.com/Hunter87ff/Spruce)
+  Currently working on various projects including [Spruce](https://github.com/Hunter87ff/Spruce).
 
-  Looking for collaboration [Unipay](https://hunter87ff/unipay.py)
+  Looking for collaboration [Unipay](https://hunter87ff/unipay.py), [FlaskCord](https://github.com/Hunter87ff/FlaskCord).
     
   </p>
 </div>
@@ -38,10 +38,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"  width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> 
   </br>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg"  width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/hunter87ff/hunter87ff/main/img/vercel.svg"  width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg"  width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"  width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
@@ -63,21 +63,23 @@
   </br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"  width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/hunter87ff/hunter87ff/main/img/express-gray.svg"  width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/hunter87ff/hunter87ff/main/img/flask_light.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/hunter87ff/hunter87ff/main/img/discord.svg"  width="40" height="40"/> 
   </br>
 
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"  width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"  width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"  width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"  width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"  width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg"  width="40" height="40"/> 
-
+  <img src="https://raw.githubusercontent.com/hunter87ff/hunter87ff/main/img/burpsuit.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"  width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"  width="40" height="40"/> 
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/"  width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/"  width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/"  width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/"  width="40" height="40"/> 
+  
+  
 </p>
 
 
