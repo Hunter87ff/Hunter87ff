@@ -64,7 +64,7 @@
                 const QUERY_URL = PROXY_URL + `${BASE_URL}ajax/download.php?button=1&start=1&end=1&format=${format}&url=${videoUrl}`;
                 const headers = {'Referer': BASE_URL};
                 try {
-                    const processResponse = await fetch(QUERY_URL, { headers });
+                    const processResponse = await fetch(QUERY_URL, { mode: 'no-cors'  });
                     const process = await processResponse.json();
                     // console.log(process.title.replace("/\\/","/"))
                     if (process.title.replace("/\\/","/") == videoUrl){
@@ -81,7 +81,7 @@
                     $("#btn").html("Loading...")
                     /*Sometime it doesn't work, You need to reload then!!*/
                     while (downloadUrl === null) {
-                        const processResponse = await fetch(QUERY_URL, { headers: headers, mode: 'no-cors' });
+                        const progressResponse = await fetch(PROCESS_URL, { mode: 'no-cors'  });
                         const progressData = await progressResponse.json();
                         downloadUrl = progressData.download_url;
                         if(progressData.text=="Initialising"){$("#btn").html("Initialising...")};
