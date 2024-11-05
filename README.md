@@ -25,7 +25,7 @@
   </p>
 </div>
 
-## Languages and Tools
+## Technologies and Tools
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"  width="40" height="40"/>
