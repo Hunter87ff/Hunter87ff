@@ -20,7 +20,7 @@
   
   Currently working on various projects including [Spruce](https://github.com/Hunter87ff/Spruce).
 
-  Looking for collaboration [Unipay](https://github.com/Hunter87ff/unipay.py), [Discord-Flask](https://github.com/Hunter87ff/Discord-Flask).
+  Looking for collaboration :  [Flapi](https://github.com/Hunter87ff/flapi), [Discord-Flask](https://github.com/Hunter87ff/Discord-Flask).
     
   </p>
 </div>
@@ -57,15 +57,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"  width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"  width="40" height="40"/> 
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"  width="40" height="40"/> 
   </br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/hunter87ff/hunter87ff/main/img/express-gray.svg"  width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/hunter87ff/hunter87ff/main/img/flask_light.svg"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/hunter87ff/hunter87ff/main/img/discord.svg"  width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"  width="40" height="40"/>
   </br>
 
   
