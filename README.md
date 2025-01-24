@@ -85,7 +85,7 @@
 
 
 ## Contribution Streaks
-<img  alt="My strakes" src="https://github-readme-streak-stats.herokuapp.com?user=hunter87ff&theme=react&hide_border=true"/>
+<img  alt="My strakes" src="https://github-readme-streak-stats-eta-two.vercel.app?user=hunter87ff&theme=react&hide_border=true"/>
 <!--<img  src="https://github-readme-activity-graph.vercel.app/graph?username=hunter87ff&custom_title=My%20Contributions&hide_border=true&theme=react-dark"/>-->
 
 ## Overall Stats
