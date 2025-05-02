@@ -16,7 +16,7 @@
   <br/>
   <p align="left">
     
-  Pursuing Bachelors of Computer Application  [@Brainware University](https://brainwareuniversity.ac.in).
+  A tech enthusiast and self taught programmer from Kolkata, India. 
   
   Currently working on various projects including [Spruce](https://github.com/Hunter87ff/Spruce).
 
