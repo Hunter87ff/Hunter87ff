@@ -85,7 +85,7 @@
 ## &#128202; Contribution Stats
 
 <p align="center">
-  <img alt="My strakes" src="https://github-readme-streak-stats.herokuapp.com?user=hunter87ff&theme=react&hide_border=true"/>
+  <img alt="My strakes" src="https://github-readme-streak-stats-eta-two.vercel.app?user=hunter87ff&theme=react&hide_border=true"/>
 </p>
 
 
